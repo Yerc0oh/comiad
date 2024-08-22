@@ -1,0 +1,15 @@
+*{
+    background-color: bisque;
+}
+h1{
+    color: darkolivegreen;
+    font-family: "Comic Sans MS";
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
